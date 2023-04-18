@@ -1,0 +1,477 @@
+[
+    {
+        "dateName": "신정",
+        "isHoliday": "Y",
+        "locdate": "20160101"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20160207"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20160208"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20160209"
+    },
+    {
+        "dateName": "대체공휴일",
+        "isHoliday": "Y",
+        "locdate": "20160210"
+    },
+    {
+        "dateName": "삼일절",
+        "isHoliday": "Y",
+        "locdate": "20160301"
+    },
+    {
+        "dateName": "국회의원선거일",
+        "isHoliday": "Y",
+        "locdate": "20160413"
+    },
+    {
+        "dateName": "어린이날",
+        "isHoliday": "Y",
+        "locdate": "20160505"
+    },
+    {
+        "dateName": "임시공휴일",
+        "isHoliday": "Y",
+        "locdate": "20160506"
+    },
+    {
+        "dateName": "석가탄신일",
+        "isHoliday": "Y",
+        "locdate": "20160514"
+    },
+    {
+        "dateName": "현충일",
+        "isHoliday": "Y",
+        "locdate": "20160606"
+    },
+    {
+        "dateName": "제헌절",
+        "isHoliday": "N",
+        "locdate": "20160717",
+        "remarks": "국경일(2014. 12. 30. 법률 12915호)이지만 관공서의 공휴일(2013. 11. 05. 대통령령 24828호)이 아님."
+    },
+    {
+        "dateName": "광복절",
+        "isHoliday": "Y",
+        "locdate": "20160815"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20160914"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20160915"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20160916"
+    },
+    {
+        "dateName": "개천절",
+        "isHoliday": "Y",
+        "locdate": "20161003"
+    },
+    {
+        "dateName": "한글날",
+        "isHoliday": "Y",
+        "locdate": "20161009"
+    },
+    {
+        "dateName": "기독탄신일",
+        "isHoliday": "Y",
+        "locdate": "20161225"
+    },
+    {
+        "dateName": "신정",
+        "isHoliday": "Y",
+        "locdate": "20170101"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20170127"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20170128"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20170129"
+    },
+    {
+        "dateName": "대체공휴일",
+        "isHoliday": "Y",
+        "locdate": "20170130"
+    },
+    {
+        "dateName": "삼일절",
+        "isHoliday": "Y",
+        "locdate": "20170301"
+    },
+    {
+        "dateName": "석가탄신일",
+        "isHoliday": "Y",
+        "locdate": "20170503"
+    },
+    {
+        "dateName": "어린이날",
+        "isHoliday": "Y",
+        "locdate": "20170505"
+    },
+    {
+        "dateName": "대통령선거일",
+        "isHoliday": "Y",
+        "locdate": "20170509"
+    },
+    {
+        "dateName": "현충일",
+        "isHoliday": "Y",
+        "locdate": "20170606"
+    },
+    {
+        "dateName": "제헌절",
+        "isHoliday": "N",
+        "locdate": "20170717",
+        "remarks": "국경일(2014. 12. 30. 법률 12915호)이지만 관공서의 공휴일(2013. 11. 05. 대통령령 24828호)이 아님."
+    },
+    {
+        "dateName": "광복절",
+        "isHoliday": "Y",
+        "locdate": "20170815"
+    },
+    {
+        "dateName": "임시공휴일",
+        "isHoliday": "Y",
+        "locdate": "20171002"
+    },
+    {
+        "dateName": "개천절",
+        "isHoliday": "Y",
+        "locdate": "20171003"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20171003"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20171004"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20171005"
+    },
+    {
+        "dateName": "대체공휴일",
+        "isHoliday": "Y",
+        "locdate": "20171006"
+    },
+    {
+        "dateName": "한글날",
+        "isHoliday": "Y",
+        "locdate": "20171009"
+    },
+    {
+        "dateName": "기독탄신일",
+        "isHoliday": "Y",
+        "locdate": "20171225"
+    },
+    {
+        "dateName": "1월1일",
+        "isHoliday": "Y",
+        "locdate": "20180101"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20180215"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20180216"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20180217"
+    },
+    {
+        "dateName": "삼일절",
+        "isHoliday": "Y",
+        "locdate": "20180301"
+    },
+    {
+        "dateName": "어린이날",
+        "isHoliday": "Y",
+        "locdate": "20180505"
+    },
+    {
+        "dateName": "대체휴무일",
+        "isHoliday": "Y",
+        "locdate": "20180507"
+    },
+    {
+        "dateName": "부처님오신날",
+        "isHoliday": "Y",
+        "locdate": "20180522"
+    },
+    {
+        "dateName": "현충일",
+        "isHoliday": "Y",
+        "locdate": "20180606"
+    },
+    {
+        "dateName": "전국동시지방선거",
+        "isHoliday": "Y",
+        "locdate": "20180613"
+    },
+    {
+        "dateName": "제헌절",
+        "isHoliday": "N",
+        "locdate": "20180717",
+        "remarks": "국경일(2014. 12. 30. 법률 12915호)이지만 관공서의 공휴일(2013. 11. 05. 대통령령 24828호)이 아님."
+    },
+    {
+        "dateName": "광복절",
+        "isHoliday": "Y",
+        "locdate": "20180815"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20180923"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20180924"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20180925"
+    },
+    {
+        "dateName": "대체휴무일",
+        "isHoliday": "Y",
+        "locdate": "20180926"
+    },
+    {
+        "dateName": "개천절",
+        "isHoliday": "Y",
+        "locdate": "20181003"
+    },
+    {
+        "dateName": "한글날",
+        "isHoliday": "Y",
+        "locdate": "20181009"
+    },
+    {
+        "dateName": "기독탄신일",
+        "isHoliday": "Y",
+        "locdate": "20181225"
+    },
+    {
+        "dateName": "1월1일",
+        "isHoliday": "Y",
+        "locdate": "20190101"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20190204"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20190205"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20190206"
+    },
+    {
+        "dateName": "삼일절",
+        "isHoliday": "Y",
+        "locdate": "20190301"
+    },
+    {
+        "dateName": "어린이날",
+        "isHoliday": "Y",
+        "locdate": "20190505"
+    },
+    {
+        "dateName": "대체공휴일",
+        "isHoliday": "Y",
+        "locdate": "20190506"
+    },
+    {
+        "dateName": "부처님오신날",
+        "isHoliday": "Y",
+        "locdate": "20190512"
+    },
+    {
+        "dateName": "현충일",
+        "isHoliday": "Y",
+        "locdate": "20190606"
+    },
+    {
+        "dateName": "제헌절",
+        "isHoliday": "N",
+        "locdate": "20190717",
+        "remarks": "국경일이지만, 관공서의 공휴일이 아님."
+    },
+    {
+        "dateName": "광복절",
+        "isHoliday": "Y",
+        "locdate": "20190815"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20190912"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20190913"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20190914"
+    },
+    {
+        "dateName": "개천절",
+        "isHoliday": "Y",
+        "locdate": "20191003"
+    },
+    {
+        "dateName": "한글날",
+        "isHoliday": "Y",
+        "locdate": "20191009"
+    },
+    {
+        "dateName": "기독탄신일",
+        "isHoliday": "Y",
+        "locdate": "20191225"
+    },
+    {
+        "dateName": "1월1일",
+        "isHoliday": "Y",
+        "locdate": "20200101"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20200124"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20200125"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20200126"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20200127"
+    },
+    {
+        "dateName": "삼일절",
+        "isHoliday": "Y",
+        "locdate": "20200301"
+    },
+    {
+        "dateName": "제21대 국회의원선거",
+        "isHoliday": "Y",
+        "locdate": "20200415"
+    },
+    {
+        "dateName": "부처님오신날",
+        "isHoliday": "Y",
+        "locdate": "20200430"
+    },
+    {
+        "dateName": "어린이날",
+        "isHoliday": "Y",
+        "locdate": "20200505"
+    },
+    {
+        "dateName": "현충일",
+        "isHoliday": "Y",
+        "locdate": "20200606"
+    },
+    {
+        "dateName": "제헌절",
+        "isHoliday": "N",
+        "locdate": "20200717",
+        "remarks": "국경일이지만, 관공서의 공휴일이 아님."
+    },
+    {
+        "dateName": "광복절",
+        "isHoliday": "Y",
+        "locdate": "20200815"
+    },
+    {
+        "dateName": "임시공휴일",
+        "isHoliday": "Y",
+        "locdate": "20200817"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20200930"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20201001"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20201002"
+    },
+    {
+        "dateName": "개천절",
+        "isHoliday": "Y",
+        "locdate": "20201003"
+    },
+    {
+        "dateName": "한글날",
+        "isHoliday": "Y",
+        "locdate": "20201009"
+    },
+    {
+        "dateName": "기독탄신일",
+        "isHoliday": "Y",
+        "locdate": "20201225"
+    }
+]

@@ -1,0 +1,199 @@
+[
+    {
+        "dateName": "1월1일",
+        "isHoliday": "Y",
+        "locdate": "20210101"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20210211"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20210212"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20210213"
+    },
+    {
+        "dateName": "삼일절",
+        "isHoliday": "Y",
+        "locdate": "20210301"
+    },
+    {
+        "dateName": "어린이날",
+        "isHoliday": "Y",
+        "locdate": "20210505"
+    },
+    {
+        "dateName": "부처님오신날",
+        "isHoliday": "Y",
+        "locdate": "20210519"
+    },
+    {
+        "dateName": "현충일",
+        "isHoliday": "Y",
+        "locdate": "20210606"
+    },
+    {
+        "dateName": "제헌절",
+        "isHoliday": "N",
+        "locdate": "20210717",
+        "remarks": "국경일이지만 공휴일 아님"
+    },
+    {
+        "dateName": "광복절",
+        "isHoliday": "Y",
+        "locdate": "20210815"
+    },
+    {
+        "dateName": "대체공휴일",
+        "isHoliday": "Y",
+        "locdate": "20210816"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20210920"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20210921"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20210922"
+    },
+    {
+        "dateName": "개천절",
+        "isHoliday": "Y",
+        "locdate": "20211003"
+    },
+    {
+        "dateName": "대체공휴일",
+        "isHoliday": "Y",
+        "locdate": "20211004"
+    },
+    {
+        "dateName": "한글날",
+        "isHoliday": "Y",
+        "locdate": "20211009"
+    },
+    {
+        "dateName": "대체공휴일",
+        "isHoliday": "Y",
+        "locdate": "20211011"
+    },
+    {
+        "dateName": "기독탄신일",
+        "isHoliday": "Y",
+        "locdate": "20211225"
+    },
+    {
+        "dateName": "1월1일",
+        "isHoliday": "Y",
+        "locdate": "20220101"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20220131"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20220201"
+    },
+    {
+        "dateName": "설날",
+        "isHoliday": "Y",
+        "locdate": "20220202"
+    },
+    {
+        "dateName": "삼일절",
+        "isHoliday": "Y",
+        "locdate": "20220301"
+    },
+    {
+        "dateName": "대통령선거일",
+        "isHoliday": "Y",
+        "locdate": "20220309"
+    },
+    {
+        "dateName": "어린이날",
+        "isHoliday": "Y",
+        "locdate": "20220505"
+    },
+    {
+        "dateName": "부처님오신날",
+        "isHoliday": "Y",
+        "locdate": "20220508"
+    },
+    {
+        "dateName": "전국동시지방선거",
+        "isHoliday": "Y",
+        "locdate": "20220601"
+    },
+    {
+        "dateName": "현충일",
+        "isHoliday": "Y",
+        "locdate": "20220606"
+    },
+    {
+        "dateName": "제헌절",
+        "isHoliday": "N",
+        "locdate": "20220717",
+        "remarks": "국경일이지만 공휴일 아님"
+    },
+    {
+        "dateName": "광복절",
+        "isHoliday": "Y",
+        "locdate": "20220815"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20220909"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20220910"
+    },
+    {
+        "dateName": "추석",
+        "isHoliday": "Y",
+        "locdate": "20220911"
+    },
+    {
+        "dateName": "대체공휴일",
+        "isHoliday": "Y",
+        "locdate": "20220912"
+    },
+    {
+        "dateName": "개천절",
+        "isHoliday": "Y",
+        "locdate": "20221003"
+    },
+    {
+        "dateName": "한글날",
+        "isHoliday": "Y",
+        "locdate": "20221009"
+    },
+    {
+        "dateName": "대체공휴일",
+        "isHoliday": "Y",
+        "locdate": "20221010"
+    },
+    {
+        "dateName": "기독탄신일",
+        "isHoliday": "Y",
+        "locdate": "20221225"
+    }
+]
