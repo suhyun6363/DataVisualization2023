@@ -18,5 +18,5 @@ df.ix[index]
 
 > 조건별 평균
 ```
-df.loc[condition, 'age'].mean()
+df.loc[condition, 'column명'].mean()
 ```
