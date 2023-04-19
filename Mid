@@ -1,6 +1,6 @@
 1. column 조회
 ```
-df['coulumn']
+df['column']
 ```
 
 2. row 조회
