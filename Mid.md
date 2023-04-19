@@ -13,6 +13,7 @@ df.ix[index]
 ## 통계함수
 + sum()
 + mean() : 열에 대한 통계량
+
 조건별 평균
  ```
 df.loc[condition, 'column명'].mean()
