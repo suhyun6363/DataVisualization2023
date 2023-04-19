@@ -13,11 +13,11 @@ df.ix[index]
 ## 통계함수
 + sum()
 + mean() : 열에 대한 통계량
-> 조건별 평균
-> ```
-> df.loc[condition, 'column명'].mean()
-> ```
-> > skipna=False로 설정하게 된다면, NaN 값이 있는 column은 NaN 값으로 출력
+조건별 평균
+ ```
+df.loc[condition, 'column명'].mean()
+ ```
+> skipna=False로 설정하게 된다면, NaN 값이 있는 column은 NaN 값으로 출력
 + `unique()`함수는 데이터에 고유값들이 어떠한 종류들이 있는지 알고 싶을때 사용하는 함수
 + `nunique()`함수는 데이터에 고유값들의 수를 출력해주는 함수
 + `value_counts()`는 값별로 데이터의 수를 출력해주는 함수(`ascending=True`오름차순 정렬)
