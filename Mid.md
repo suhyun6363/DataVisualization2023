@@ -20,3 +20,4 @@ df.ix[index]
 ```
 df.loc[condition, 'column명'].mean()
 ```
+> skipna=False로 설정하게 된다면, NaN 값이 있는 column은 NaN 값으로 출력
