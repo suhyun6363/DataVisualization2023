@@ -8,7 +8,8 @@ df['column']
 ```
 df.ix[index]
 ```
-- ix의 경우 주의할점은 index가 integer로만 이루어진 경우에는 `label`로 접근하지만, index에 문자가 껴있으면 `순서`로 접근한다는 점이다. 
+- ix의 경우 주의할점은 index가 integer로만 이루어진 경우에는 `label`로 접근하지만, index에 문자가 껴있으면 `순서`로 접근한다는 점이다.
+ - `iloc()` 순서 접근, `loc()` label 접근
 
 ## 통계함수 참조 : <https://teddylee777.github.io/pandas/pandas-tutorial-04/>
 + sum()
