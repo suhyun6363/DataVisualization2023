@@ -43,6 +43,6 @@ pd.merge(df_left, df_right, how='inner', on=None)
 ## 데이터 정렬
 + `sorted_values()` default 오름차순 정렬, NaN값은 맨 마지막에 위치
 ```
-df.sorted_values(by= ['컬럼명', ...], ascending = [True, ...])
+df.sorted_values(by= ['컬럼명1', '컬럼명2', ...], ascending = [True, False, ...])
 ```
 
